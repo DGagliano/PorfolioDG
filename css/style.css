@@ -363,6 +363,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-social-icons {
   margin: 0;
   padding: 0;
+  display: inline-block;
 }
 .fh5co-social-icons li {
   margin: 0;
@@ -382,14 +383,15 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-left: 10px;
   padding-right: 10px;
   
- 
 }
+
 .fh5co-social-icons li a i {
   font-size: 20px;
 }
 .fh5co-social-icons li a img {
   width: 30px;
   height: 30px;
+  padding-bottom: 5px;
 }
 
 #fh5co-about .fh5co-social-icons {
